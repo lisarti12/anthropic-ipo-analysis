@@ -1,0 +1,11 @@
+metric_name,value,unit
+revenue_growth_2025_pct,1091.71,pct
+operating_loss_to_revenue_2024_pct,772.02,pct
+operating_loss_to_revenue_2025_pct,175.22,pct
+compute_to_revenue_2025_pct,159.35,pct
+operating_expenses_to_revenue_2025_pct,275.0,pct
+series_e_to_f_valuation_growth_pct,197.56,pct
+series_f_to_g_valuation_growth_pct,107.65,pct
+series_g_to_h_valuation_growth_pct,153.95,pct
+series_e_to_h_valuation_growth_pct,1469.11,pct
+series_h_to_fy2025_revenue_multiple,209.78,x

@@ -1,0 +1,15 @@
+metric_date,metric_name,value,unit,metric_type,source_id,value_qualifier,notes
+2025-08-01,revenue_run_rate,5,USD_bn,RUN_RATE,S001,LOWER_BOUND,Reported as over $5B; month-level date
+2025-09-02,post_money_valuation,183,USD_bn,VALUATION,S001,EXACT,Series F
+2026-02-12,post_money_valuation,380,USD_bn,VALUATION,S002,EXACT,Series G
+2026-02-12,revenue_run_rate,14,USD_bn,RUN_RATE,S002,APPROXIMATE,Annualized run rate
+2026-05-28,post_money_valuation,965,USD_bn,VALUATION,S003,EXACT,Series H
+2026-05-01,revenue_run_rate,47,USD_bn,RUN_RATE,S003,LOWER_BOUND,Crossed $47B earlier in May; month-level date
+2025-12-31,annual_revenue,4.6,USD_bn,ACTUAL,S004,APPROXIMATE,FY2025; Reuters-reported
+2025-12-31,compute_infrastructure_spending,7.33,USD_bn,ACTUAL,S004,APPROXIMATE,FY2025; Reuters-reported
+2025-12-31,operating_loss,8.06,USD_bn,ACTUAL,S004,APPROXIMATE,FY2025; loss stored as positive magnitude
+2025-03-03,post_money_valuation,61.5,USD_bn,VALUATION,S005,EXACT,Series E
+2024-12-31,annual_revenue,0.386,USD_bn,ACTUAL,S006,APPROXIMATE,FY2024; Reuters-reported
+2024-12-31,operating_loss,2.98,USD_bn,ACTUAL,S006,APPROXIMATE,FY2024; loss stored as positive magnitude
+2025-12-31,operating_expenses,12.65,USD_bn,ACTUAL,S006,APPROXIMATE,FY2025; Reuters-reported
+2025-12-31,net_loss,41.97,USD_bn,ACTUAL,S006,APPROXIMATE,FY2025; includes non-cash accounting charges
